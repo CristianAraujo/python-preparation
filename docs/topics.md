@@ -12,7 +12,7 @@
 10. Generadores
 11. Estructuras de datos
 12. Recursión
-13. Manejo de archivos
+13. Manejo de archivos ❓
 14. Serialización
 15. Manjadores de contexto
 16. Conexión DDBB
